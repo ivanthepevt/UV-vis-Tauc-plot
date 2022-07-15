@@ -1,0 +1,1 @@
+plotauc("ZnS_dopedMn_Chitosan.xlsx");
